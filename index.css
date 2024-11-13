@@ -7,7 +7,6 @@
 }
 body{
   justify-items: center;
-
 }
 #page{
   box-sizing: border-box;
@@ -95,6 +94,7 @@ ul{
 footer{
   margin: 65px 0px 48px;
   font-family: Alice, serif;
+  text-align: center;
 }
 footer img{
   width: 16px;
